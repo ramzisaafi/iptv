@@ -19,6 +19,8 @@ http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/750?checkedby:iptvcat.com
 http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/743?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TN" tvg-logo="" group-title="Undefined",Tunisia Nat 2
 http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/744?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined",FR | TF1,TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",(GE) 1 TV
 http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.nexpanama.com/wp-content/uploads/2019/08/m23_Logo_FullHD_EsComoTu-Negro-01_result.png" tvg-url="" group-title="",+23 ES COMO TU HD
